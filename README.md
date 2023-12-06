@@ -41,5 +41,7 @@ suggesting potential pursuit of higher qualifications.
   Variation in length of service (joining year) across different cities: Bangalore has the highest number of employees from 2012 to 2018, followed by New Delhi and Pune. 
 Bangalore consistently attracted over 300 employees from 2012 to 2017, decreasing to 203 in 2018 but still exceeding the combined count of New Delhi and Pune in 2018. 
 New Delhi and Pune exhibited relatively lower numbers, with only one peak year each—474 employees in 2017 for New Delhi and 333 employees in 2015 for Pune. 
-Further investigation may shed light on the underlying reasons for these trends, aiding HR understanding. Correlation between payment tier and experience in the current domain: 
+Further investigation may shed light on the underlying reasons for these trends, aiding HR understanding. 
+
+Correlation between payment tier and experience in the current domain: 
 Indeed, a correlation exists. Employees with more experience in the current domain tend to have higher payment tiers.
