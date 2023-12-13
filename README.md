@@ -1,22 +1,22 @@
 # employee-dataset
- EMPLOYEE DATASET
+ #INTRODUCTION
 
   This marks my initial attempt at data visualization with minimal guidance. 
 
   I sourced this employee dataset from Kaggle. After importing the dataset into Excel, I undertook the following steps:
 
-   Duplicated the data sheet
-   Adjusted row and column sizes automatically 
-   Applied filters to each column to assess the data, 
-   Identify any blanks or null values, 
-   And verified the column names. 
+   - Duplicated the data sheet,
+   - Adjusted row and column sizes automatically, 
+   - Applied filters to each column to assess the data, 
+   - Identify any blanks or null values, 
+   - And verified the column names. 
      
   "This dataset provides comprehensive information about the company's workforce, encompassing details about employees'  backgrounds, work history, 
     demographics, and employment-related factors. The dataset has been anonymized to protect  privacy while offering valuable insights into the workforce." 
 
    The dataset was relatively clean. 
 
-  several questions were formulated and i attempted to address them: 
+  Several questions were formulated and I attempted to address them: 
 
   Examining diversity and inclusion. 
   Analyzing the distribution of educational qualifications among employees. 
