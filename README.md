@@ -1,5 +1,5 @@
 # employee-dataset
- #INTRODUCTION
+ ## INTRODUCTION
 
   This marks my initial attempt at data visualization with minimal guidance. 
 
