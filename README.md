@@ -54,4 +54,3 @@ Also 2018 which has the lowest amount of employees in joining year surprisingly 
 ##### EXCEL DASHBOARD
 https://1drv.ms/x/s!AiFu5ZZnA5hSgntsX_BLBFN-_fBN
 
-https://docs.google.com/file/d/1k0KrDC3GYGyMqxMF1YSO9WS6VFtOf-ZD/edit?usp=docslist_api&filetype=msexcel
